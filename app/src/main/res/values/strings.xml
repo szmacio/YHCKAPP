@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Yhck</string>
+    <string name="ok_toast">hello world</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="index_fragment">Hello index_fragment</string>
+    <string name="report_fragment">Hello reprot fragment</string>
+    <string name="member_fragment">Hello member_fragment</string>
+</resources>
